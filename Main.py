@@ -7,7 +7,6 @@ from Setting import *
 
 import pandas as pd
 import pandas_datareader as web
-import mplfinance as mpf
 import datetime as dt
 
 # Read csv file
